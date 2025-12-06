@@ -12,18 +12,48 @@ about:
       href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Azadeh Baniasad is a statistics and data science researcher with experience in applied predictive modeling, public health analytics, and decision-making with real-world data. She is passionate about mathematics and enjoys analyzing meaningful problems, especially those related to community well-being.
+
+When she is not studying or building statistical models, Azadeh loves tutoring mathematics, mentoring students, and spending time with her family.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+**University of California, Los Angeles (UCLA)**  
+B.A. in Statistics & Data Science (in progress)  
+Mathematics Minor  
+*Expected Graduation: June 2026*
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+- NIH-funded ISI-BUDS Summer Institute in Biostatistics & Data Science – UC Irvine  
+- UCLA Crankstart Re-Entry Scholar  
+- UCLA Honors Student
 
-## Experience
+## Research Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+### UCLA Department of Statistics – Stats 199 Research  
+*Mentor: Prof. Rob Gould*  
+**Fall 2025 – Present**
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+- Analyzing California TB data (2015–2023) to study relationships between wildfire smoke exposure, environmental PM2.5, and TB treatment outcomes  
+- Completed UCLA CITI Human Subjects Research training and IRB preparation  
+- Building reproducible workflows using R, Quarto, and GitHub
+
+### UC Irvine – ISI-BUDS HIV/TB Project (Botswana)  
+**Summer 2025**
+
+- Built logistic regression and baysian models to examine HIV status, ART history, CD4 count, and TB treatment success  
+- Worked directly with REDCap datasets and epidemiology researchers  
+- Presented findings to ISI-BUDS faculty and research teams
+
+
+### Technical Skills
+
+- **Programming:** R (tidyverse, mlr3, glmnet, ggplot2, sf, mapview), MATLAB, Git/GitHub  
+- **Modeling:** Logistic regression, regression trees, splines, model selection (AIC/BIC), VIF analysis, PCA  
+- **Data Workflows:** Reproducible research with Quarto and LaTeX  
+- **Specialty Data:** Environmental PM2.5, wildfire smoke exposure, public health surveillance datasets
+
+
+### Teaching & Service
+
+- Mathematics tutor at Pierce College and community education programs  
+- Mentor for high school and community college students in Math and Stats 
