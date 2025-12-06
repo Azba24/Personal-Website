@@ -4,12 +4,9 @@ about:
   template: jolla
   image: my_profile_pic.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/azba24
 ---
 
 Azadeh Baniasad is a statistics and data science researcher with experience in applied predictive modeling, public health analytics, and decision-making with real-world data. She is passionate about mathematics and enjoys analyzing meaningful problems, especially those related to community well-being.
@@ -37,23 +34,23 @@ Mathematics Minor
 - Completed UCLA CITI Human Subjects Research training and IRB preparation  
 - Building reproducible workflows using R, Quarto, and GitHub
 
-### UC Irvine – ISI-BUDS HIV/TB Project (Botswana)  
+### UC Irvine – ISI-BUDS HIV/TB Project 
 **Summer 2025**
 
-- Built logistic regression and baysian models to examine HIV status, ART history, CD4 count, and TB treatment success  
+- Built logistic regression and baysian models to examine HIV status, ART history, CD4 count, and TB treatment outcome in Botswana  
 - Worked directly with REDCap datasets and epidemiology researchers  
 - Presented findings to ISI-BUDS faculty and research teams
 
 
-### Technical Skills
+## Technical Skills
 
-- **Programming:** R (tidyverse, mlr3, glmnet, ggplot2, sf, mapview), MATLAB, Git/GitHub  
+- **Programming:** R (tidyverse, mlr3, glmnet, ggplot2, sf, mapview), MATLAB, python 
 - **Modeling:** Logistic regression, regression trees, splines, model selection (AIC/BIC), VIF analysis, PCA  
 - **Data Workflows:** Reproducible research with Quarto and LaTeX  
 - **Specialty Data:** Environmental PM2.5, wildfire smoke exposure, public health surveillance datasets
 
 
-### Teaching & Service
+## Teaching & Service
 
 - Mathematics tutor at Pierce College and community education programs  
 - Mentor for high school and community college students in Math and Stats 
