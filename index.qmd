@@ -1,15 +1,23 @@
 ---
 title: "Azadeh Baniasad"
 about:
-  template: jolla
+  template: trestles
+  image-width: 10em
+  image-shape: round
   image: my_profile_pic.jpg
   links:
     - icon: github
       text: Github
       href: https://github.com/azba24
+    - text: Email
+      href: mailto:azba24@g.ucla.edu
+
+      
 ---
 
-Azadeh Baniasad is a statistics and data science researcher with experience in applied predictive modeling, public health analytics, and decision-making with real-world data. She is passionate about mathematics and enjoys analyzing meaningful problems, especially those related to community well-being.
+Azadeh Baniasad is a statistics and data science researcher with experience in applied predictive modeling, public health analytics, and decision-making with real-world data. She is passionate about mathematics and enjoys analyzing meaningful problems, especially those related to community well-being.  
+
+DOWNLOAD [Resume](/resume.pdf)  
 
 When she is not studying or building statistical models, Azadeh loves tutoring mathematics, mentoring students, and spending time with her family.
 
@@ -52,5 +60,5 @@ Mathematics Minor
 
 ## Teaching & Service
 
-- Mathematics tutor at Pierce College and community education programs  
-- Mentor for high school and community college students in Math and Stats 
+- **Math Tutor** Mathematics tutor at Pierce College and community education programs  
+- **Mento** Mentor for high school and community college students in Math and Stats 

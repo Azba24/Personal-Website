@@ -8,6 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer: 
+    right: "&copy; 2024, Azadeh Baniasad"
+      
+      
+
 
 format:
   html:
@@ -15,7 +20,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: False
 
 
 execute: 
