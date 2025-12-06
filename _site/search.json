@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Azadeh Baniasad",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Azadeh Baniasad is a statistics and data science researcher with experience in applied predictive modeling, public health analytics, and decision-making with real-world data. She is passionate about mathematics and enjoys analyzing meaningful problems, especially those related to community well-being.\nDOWNLOAD Resume\nWhen she is not studying or building statistical models, Azadeh loves tutoring mathematics, mentoring students, and spending time with her family."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Azadeh Baniasad",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles (UCLA)\nB.A. in Statistics & Data Science (in progress)\nMathematics Minor\nExpected Graduation: June 2026\n\nNIH-funded ISI-BUDS Summer Institute in Biostatistics & Data Science – UC Irvine\n\nUCLA Crankstart Re-Entry Scholar\n\nUCLA Honors Student"
   },
   {
     "objectID": "index.html#experience",
@@ -26,5 +26,26 @@
     "title": "Azadeh Baniasad",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Azadeh Baniasad",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nUCLA Department of Statistics – Stats 199 Research\nMentor: Prof. Rob Gould\nFall 2025 – Present\n\nAnalyzing California TB data (2015–2023) to study relationships between wildfire smoke exposure, environmental PM2.5, and TB treatment outcomes\n\nCompleted UCLA CITI Human Subjects Research training and IRB preparation\n\nBuilding reproducible workflows using R, Quarto, and GitHub\n\n\n\nUC Irvine – ISI-BUDS HIV/TB Project\nSummer 2025\n\nBuilt logistic regression and baysian models to examine HIV status, ART history, CD4 count, and TB treatment outcome in Botswana\n\nWorked directly with REDCap datasets and epidemiology researchers\n\nPresented findings to ISI-BUDS faculty and research teams"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Azadeh Baniasad",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: R (tidyverse, mlr3, glmnet, ggplot2, sf, mapview), MATLAB, python\nModeling: Logistic regression, regression trees, splines, model selection (AIC/BIC), VIF analysis, PCA\n\nData Workflows: Reproducible research with Quarto and LaTeX\n\nSpecialty Data: Environmental PM2.5, wildfire smoke exposure, public health surveillance datasets"
+  },
+  {
+    "objectID": "index.html#teaching-service",
+    "href": "index.html#teaching-service",
+    "title": "Azadeh Baniasad",
+    "section": "Teaching & Service",
+    "text": "Teaching & Service\n\nMath Tutor Mathematics tutor at Pierce College and community education programs\n\nMento Mentor for high school and community college students in Math and Stats"
   }
 ]
