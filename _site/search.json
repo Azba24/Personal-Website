@@ -89,5 +89,26 @@
     "title": "About",
     "section": "Project 2",
     "text": "Project 2"
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "It will complete soon…"
+  },
+  {
+    "objectID": "projects/projects.html#project-1",
+    "href": "projects/projects.html#project-1",
+    "title": "Projects",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "projects/projects.html#project-2",
+    "href": "projects/projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
   }
 ]
