@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a4b11b7b-53bb-4718-96db-0f1d3607f039
+      url: https://azadehbaniasad.netlify.app/
