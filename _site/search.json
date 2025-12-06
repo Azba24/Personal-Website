@@ -54,5 +54,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "index",
+    "section": "",
+    "text": "It will complete soon…"
+  },
+  {
+    "objectID": "projects/index.html#project-1",
+    "href": "projects/index.html#project-1",
+    "title": "index",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "projects/index.html#project-2",
+    "href": "projects/index.html#project-2",
+    "title": "index",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "About",
+    "section": "Project 1",
+    "text": "Project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "About",
+    "section": "Project 2",
+    "text": "Project 2"
   }
 ]
