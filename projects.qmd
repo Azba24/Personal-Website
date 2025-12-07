@@ -22,12 +22,12 @@ During Summer 2025, I participated in the NIH-funded ISI-BUDS program at UC Irvi
 
 **Institution:** UCLA Department of Statistics — Stats 199 Research
 **Mentor:** Prof. Rob Gould
-Years of data: 2015–2023 (California TB surveillance)
+**Years of data:** 2015–2023 (California TB surveillance)
 
 My current research explores possible environmental risk factors for tuberculosis in California, specifically wildfire smoke and PM2.5 exposure.
 
-Obtaining IRB approval and CITI training for use of public health surveillance data.
+-Obtaining IRB approval and CITI training for use of public health surveillance data.
 
-Planning to merge California TB case data with environmental datasets such as wildfire smoke (CalFire), PM2.5 (EPA), and risk scores (OEHHA).
+-Planning to merge California TB case data with environmental datasets such as wildfire smoke (CalFire), PM2.5 (EPA), and risk scores (OEHHA).
 
-Modeling severe versus non-severe TB outcomes using logistic regression, splines, and spatial maps in R.
+-Modeling severe versus non-severe TB outcomes using logistic regression, splines, and spatial maps in R.
