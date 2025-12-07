@@ -2,11 +2,32 @@
 title: "My Projest"
 ---
 
-## This page is comliting soon!
+## This page is compliting soon!
 
 
 ### Project 1
 
+**Institution:** UC Irvine — ISI-BUDS Summer Institute in Biostatistics  
+**Data:** Clinical dataset  
+**Methods:** Logistic regression, model selection, interaction terms, VIF, prediction accuracy
+
+During Summer 2025, I participated in the NIH-funded ISI-BUDS program at UC Irvine, working with researchers studying tuberculosis treatment outcomes in Botswana.
+
+- Built logistic regression models using predictors such as HIV status, ART history, age, CD4 count, dataset origin, and substance use.  
+- Explored interactions and variable importance to determine factors associated with favorable TB outcomes.  
+- Presented research findings at the UC Irvine ISI-BUDS Symposium.
 
 
 ### Project 2
+
+**Institution:** UCLA Department of Statistics — Stats 199 Research
+**Mentor:** Prof. Rob Gould
+Years of data: 2015–2023 (California TB surveillance)
+
+My current research explores possible environmental risk factors for tuberculosis in California, specifically wildfire smoke and PM2.5 exposure.
+
+Obtaining IRB approval and CITI training for use of public health surveillance data.
+
+Planning to merge California TB case data with environmental datasets such as wildfire smoke (CalFire), PM2.5 (EPA), and risk scores (OEHHA).
+
+Modeling severe versus non-severe TB outcomes using logistic regression, splines, and spatial maps in R.
